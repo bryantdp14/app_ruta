@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Android App",
+            "type": "android",
+            "request": "launch",
+            "appId": "com.cabel.rutacabel",
+            "target": "all"
+        }
+    ]
+}

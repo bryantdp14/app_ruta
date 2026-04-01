@@ -1,0 +1,33 @@
+# Gradle
+.gradle
+build/
+/build
+*/build
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.iws
+
+# Local configuration
+local.properties
+
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+
+# Logs
+*.log
+
+# Caches
+.gradle/
+.idea/caches/
+
+# Data binding / generated files
+/app/build/
+**/build/
